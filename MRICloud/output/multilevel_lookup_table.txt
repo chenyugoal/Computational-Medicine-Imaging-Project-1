@@ -1,4 +1,4 @@
-Type1-L5	Type1-L4	Type1-L3	Type1-L2	Type1-L1	Type2-L5	Type2-L4	Type2-L3	Type2-L2	Type2-L1
+Type1-L5	Type1-L4	Type1-L3	Type1-L2	Type1-L1	Type2-L5	Type2-L4	Type2-L3	Type2-L2	Type2-L1	
 1	SFG_L	SFG_L	Frontal_L	CerebralCortex_L	Telencephalon_L	SF_L	Frontal_L	Frontal_L	Hemisphere_L	Hemisphere_L
 2	SFG_R	SFG_R	Frontal_R	CerebralCortex_R	Telencephalon_R	SF_R	Frontal_R	Frontal_R	Hemisphere_R	Hemisphere_R
 3	SFG_PFC_L	SFG_L	Frontal_L	CerebralCortex_L	Telencephalon_L	SF_PFC_L	Frontal_L	Frontal_L	Hemisphere_L	Hemisphere_L

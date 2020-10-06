@@ -1,0 +1,15 @@
+Gray Images
+Image	Object	Pixels	Min	Max	Mean	Std	
+
+Color Images
+Image	Object	Pixels	RMin	RMax	RMean	RStd	GMin	GMax	GMean	GStd	BMin	BMax	BMean	BStd	
+
+MNI_MNI.img - 0	Telencephalon_L	484439	25.2750	231.1373	147.5106	43.0700	
+MNI_MNI.img - 0	Telencephalon_R	497444	24.8784	234.0877	147.9359	43.0367	
+MNI_MNI.img - 0	Diencephalon_L	10204	44.8943	222.8716	161.8178	20.8904	
+MNI_MNI.img - 0	Diencephalon_R	10216	44.6248	217.1434	160.6177	21.3158	
+MNI_MNI.img - 0	Mesencephalon	12932	115.9245	238.2633	192.8637	17.8627	
+MNI_MNI.img - 0	Metencephalon	152334	27.1158	233.0371	138.8096	38.8211	
+MNI_MNI.img - 0	Myelencephalon	5681	0.0000e+000	227.3000	176.1389	31.9300	
+MNI_MNI.img - 0	CSF	153006	8.4001	175.9578	57.8703	22.9291	
+

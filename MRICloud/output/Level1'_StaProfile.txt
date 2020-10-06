@@ -1,0 +1,12 @@
+Gray Images
+Image	Object	Pixels	Min	Max	Mean	Std	
+
+Color Images
+Image	Object	Pixels	RMin	RMax	RMean	RStd	GMin	GMax	GMean	GStd	BMin	BMax	BMean	BStd	
+
+MNI_MNI.img - 0	Hemisphere_L	494643	25.2750	231.1373	147.8057	42.7773	
+MNI_MNI.img - 0	Hemisphere_R	507660	24.8784	234.0877	148.1911	42.7457	
+MNI_MNI.img - 0	Brainstem	36994	0.0000e+000	238.2633	190.0823	19.5704	
+MNI_MNI.img - 0	Cerebellum	133953	27.1158	231.8558	131.4511	35.2584	
+MNI_MNI.img - 0	CSF	153006	8.4001	175.9578	57.8703	22.9291	
+
